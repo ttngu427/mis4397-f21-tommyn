@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title> Static Page </title>
+<h1> My StaticPage </h1>
+<link rel="stylesheet" href="style.css
+<style>
+  .body{
+    background: red;
+    color: white;
+  }
+</style>
+<javascript>
+ <stylesheet> 
+ 
+ <bodystyle"background-color:add_color">
+ <font> 
+ 

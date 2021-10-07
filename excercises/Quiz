@@ -1,0 +1,41 @@
+# Multiply a, b
+
+# input: 2 numbers, a b, 2 integers
+
+# output: 1 number, multiplication of a and b, 1 integers
+
+# get an integer and save it as a variable a
+
+# get an integer and save it as a variable b
+
+# multiply both a and b
+
+# print the multiplication of a and b
+
+# def multiply(a b)
+#   a * b
+# end
+
+# Solution
+def multiply(a, b)
+  a * b
+num1 = "a" # first variable
+num2 = "b" # second variable
+output = num1*num2 # multiplied number
+
+# print multiplied number
+print(output)
+
+def multiply(a, b)
+  # save input from user into a variable called num 1
+  # save input from user into a variable called num 2
+  # multiply num1 * num2
+  # output the result of num1 * num2
+  num1 = a
+  num2 = b
+  puts a * b
+end 
+
+
+multiply(2,3)
+
